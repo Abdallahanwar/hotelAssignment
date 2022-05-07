@@ -1,0 +1,119 @@
+[
+  {
+    "Id": 0,
+    "Name": "Amman Rotana",
+    "NumberOfRooms": 412,
+    "StarRating": 5.0,
+    "Image": "ammanrotana",
+    "Description": "Located in the central business, social and residential destination, Amman's new downtown, Al Abdali, Amman Rotana is the first tower hotel in Jordan offering 412 lavish rooms and suites, housed across 50 floors at 189 m high.",
+    "City": {
+      "Id": 0,
+      "Name": "Amman",
+      "Location": "Black Iris street - Abdali, P.O. Box 926111, 11190 Amman, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "LaCasaHotel",
+    "NumberOfRooms": 120,
+    "StarRating": 4.0,
+    "Image": "LaCasaHotel",
+    "Description": "Located in Amman, 4.5 km from Al Hussein National Park, La Casa Hotel - Amman by FHM has accommodations with a restaurant, free private parking, a fitness center and a spa & wellness center.",
+    "City": {
+      "Id": 0,
+      "Name": "Amman",
+      "Location": "185 Tla'a Alali, Natfeh street, 11953 Amman, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Movenpick Hotel",
+    "NumberOfRooms": 218,
+    "StarRating": 5.0,
+    "Image": "MovenpickAmman",
+    "Description": "The high-rise Movenpick Hotel Amman is set in a business district near government offices; the property is 30 minutes' drive from exhibitions at Amman International Fair and a comfortable base for discovering the capital's rich history.",
+    "City": {
+      "Id": 0,
+      "Name": "Amman",
+      "Location": "Madinah Munawarah Street, 11194 Amman, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Movenpick Resort & Spa",
+    "NumberOfRooms": 218,
+    "StarRating": 5.0,
+    "Image": "MovenpickDeadSea",
+    "Description": "The Movenpick Dead Sea is a 5-star Resort and Spa with panoramic views of the Dead Sea. The resort offers a luxurious setting with private access to the northern shore of the Dead Sea. Free Wi-Fi is available in all areas.",
+    "City": {
+      "Id": 0,
+      "Name": "DeadSea",
+      "Location": "Dead Sea Road, 18186 Sowayma, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Holiday Inn Resort",
+    "NumberOfRooms": 312,
+    "StarRating": 5.0,
+    "Image": "HolidayInnDeadSea",
+    "Description": "This Holiday Inn Resort, on the edge of the Dead Sea, offers luxurious facilities including a private beach area. Each room features flat-screen TVs and free internet.",
+    "City": {
+      "Id": 0,
+      "Name": "DeadSea",
+      "Location": "Main Dead Sea Road, 18186 Sowayma, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Hilton Resort & Spa",
+    "NumberOfRooms": 200,
+    "StarRating": 5.0,
+    "Image": "HiltonDeadSea",
+    "Description": "Located in Sowayma, 8 mi from Bethany Beyond the Jordan, Hilton Dead Sea Resort & Spa features a fitness center and a private beach area.",
+    "City": {
+      "Id": 0,
+      "Name": "DeadSea",
+      "Location": "Dead Sea Road, Hotels Area , 11953 Sowayma, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Kempinski Hotel",
+    "NumberOfRooms": 400,
+    "StarRating": 5.0,
+    "Image": "KempinskiAqaba",
+    "Description": "This property is 2 minutes walk from the beach. Overlooking the Red Sea, this beach resort offers 5 different dining outlets and an outdoor pool bordering white sandy beaches. Its modern designs add to the tranquility of the surroundings.",
+    "City": {
+      "Id": 0,
+      "Name": "Aqaba",
+      "Location": "King Hussein Street, 77110 Aqaba, Jordan"
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "Movenpick Resort & Residences",
+    "NumberOfRooms": 300,
+    "StarRating": 5.0,
+    "Image": "MovenpickAqaba",
+    "Description": "This property is 1 minute walk from the beach. This 5-star resort in the center of Aqaba is 500 m from the Red Sea. It features a private beach, several outdoor pools and 5 food outlets. It features free WiFi in all areas.",
+    "City": {
+      "Id": 0,
+      "Name": "Aqaba",
+      "Location": "King Hussein Street, 77110 Aqaba, Jordan "
+    }
+  },
+  {
+    "Id": 0,
+    "Name": "InterContinental",
+    "NumberOfRooms": 324,
+    "StarRating": 5.0,
+    "Image": "InterContinentalAqaba",
+    "Description": "This property is a 5-minute walk from the beach. With a private beach along the Gulf of Aqaba, this elegant hotel offers rooms with balconies overlooking the 200 m2, lagoon-style pool and the Red Sea. It also features an extensive spa.",
+    "City": {
+      "Id": 0,
+      "Name": "Aqaba",
+      "Location": "Beach Front, Hotels street, 77110 Aqaba, Jordan"
+    }
+  }
+]
